@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Página Inicial | BT21</title>
+    <link rel="stylesheet" href="layout.css">
+</head>
+<body>
+  <header class="topo">
+      <img src="logo01.png" alt="Logo da BT21">
+      <nav class="menu">
+          <a href="layout.html">Página Inicial</a>
+          <a href="https://www.bt21.com/character">Personagens</a>
+          <a href="https://twitter.com/bt21_">Contato</a>
+      </nav>
+     </header>  
+  
+  <main>
+    <div class="banner">
+        <img src="banner1.jpg" alt="Banner de promoção">
+    </div>  
+    <section class="destaques">
+        <h2>Produtos</h2>
+
+        <div class="item">
+            <img src="destaque01.jpg" alt="Espelho de bolso">
+            <p>Espelho de bolso</p>
+        </div>
+
+        <div class="item">
+            <img src="destaque02.jpg" alt="Chaveiro de pelúcia">
+            <p>Chaveiro de pelúcia</p>
+        </div>
+
+        <div class="item">
+            <img src="destaque03.jpg" alt="Chinelo">
+            <p>Chinelo</p>
+        </div>     
+        
+        <div class="item">
+            <img src="destaque04.jpg" alt="Máscara de dormir">
+            <p>Máscara de dormir</p>
+        </div>   
+
+        <div class="estrt">
+            <img src="banner3.jpg" alt="BT21 Anywhere">
+        </div>
+    </section>  
+ </main>
+
+  <footer class="rodape">Todos os direitos reservados. 2019</footer>  
+</body>
+</html>
